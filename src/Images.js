@@ -1,0 +1,20 @@
+import Image01 from './Pictures/flower1.jpg';
+import Image02 from './Pictures/flower2.jpg';
+import Image03 from './Pictures/flower3.jpg';
+import Image04 from './Pictures/flower4.jpg';
+import Image05 from './Pictures/flower5.jpg';
+import Image06 from './Pictures/flower6.jpg';
+import Image07 from './Pictures/flower7.jpg';
+import Image08 from './Pictures/flower8.jpg';
+import Image09 from './Pictures/flower9.jpg';
+import Image010 from './Pictures/flower10.jpg';
+import Image011 from './Pictures/flower11.jpg';
+import Image012 from './Pictures/flower12.jpg';
+import Image013 from './Pictures/flower13.jpg';
+import Image014 from './Pictures/flower14.jpg';
+import Image015 from './Pictures/flower15.jpg';
+import Image016 from './Pictures/flower16.jpg';
+import Image017 from './Pictures/flower17.jpg';
+import Image018 from './Pictures/flower18.jpg';
+
+export default [Image01, Image02, Image03, Image04, Image05, Image06, Image07, Image08, Image09, Image010, Image011, Image012, Image013, Image014, Image015, Image016, Image017, Image018];
